@@ -10,7 +10,7 @@ body {
   margin: 0;
   padding: 0;
   background-color: rgb(3, 5, 93);
-  color: rgb(245, 240, 240);
+  color: black;
 }
 
 p {
@@ -30,6 +30,7 @@ small {
 .title {
   font-size: 4.4rem;
   text-align: center;
+  color: rgb(245, 240, 240);
 }
 
 .form{
@@ -42,6 +43,7 @@ small {
   font-size: 1.2rem;
   margin-bottom: 0.2rem;
   text-transform: uppercase;
+  color: rgb(245, 240, 240);
 }
 
 .input {
